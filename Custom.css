@@ -1,0 +1,8 @@
+.Js{
+    font-family: "serif";
+    text-shadow:10px 10px 10px maroon;
+    color:goldenrod;
+}
+.carousel-item{
+    height: 90vh;
+}
